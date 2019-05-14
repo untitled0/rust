@@ -1,0 +1,7 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+authors = ["bb-ooka <sadafumi.ooka@bitcoinbank.co.jp>"]
+edition = "2018"
+
+[dependencies]
